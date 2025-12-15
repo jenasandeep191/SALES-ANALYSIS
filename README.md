@@ -1,4 +1,4 @@
-# 📌 SALES-ANALYTICS-PORTFOLIO
+# 📌 SALES_ANALYTICS_PORTFOLIO
 End-to-end BI project analyzing pizza sales trends, product performance, and peak hours using Python, SQL, Excel and Power BI. Sales analysis of pizza orders using SQL(Extraction), Python(Pandas, Seaborn, Plotly), Excel(Cleaning) and Power BI for dashboarding.
 
 This project analyzes sales data for a pizza restaurant to identify opportunities for revenue growth. The analysis covers 40,000+ records to determine key performance indicators (KPIs) and operational trends.
