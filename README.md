@@ -18,7 +18,6 @@ This project analyzes sales data for a pizza restaurant to identify opportunitie
 
 ## 📷 Dashboard Screenshots
 ![PBIX SCREENSHOT 1](PBIX SCREENSHOT 2.png)
-*(Note: Upload your screenshot image to the repo and replace the filename here)*
 
 ## 🚀 Conclusion
 Based on the analysis, I recommended optimizing inventory for the "Classic" category and running promotional offers during weekdays to balance the sales distribution.
